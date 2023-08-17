@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:0,[2] TVRI
+rtp://239.1.1.238:8016
+
+#EXTINF:0,[51] Metro TV
+rtp://239.1.2.2:7986
+
+#EXTINF:0,[52] SEA TODAY
+rtp://239.1.2.70:8396
+
+#EXTINF:0,[53] CNN Indonesia
+rtp://239.1.1.180:9054
+
+#EXTINF:0,[54] TV One
+rtp://239.1.1.31:8160
+
+#EXTINF:0,[55] Trans TV
+rtp://239.1.1.194:9138
+
+#EXTINF:0,[56] Trans 7
+rtp://239.1.1.222:9306
+
+#EXTINF:0,[80] SCTV
+rtp://239.1.2.58:8324
+
+#EXTINF:0,[85] ANTV
+rtp://239.1.1.153:8627
+
+#EXTINF:0,[2] Indosiar
+rtp://239.1.1.214:8010
+
+#EXTINF:0,[51] NET TV
+rtp://239.1.1.158:8922
+
+#EXTINF:0,[52] Kompas TV
+rtp://239.1.1.240:8017
+
+#EXTINF:0,[53] BTV
+rtp://239.1.1.114:9512
+
+#EXTINF:0,[54] JAKTV
+rtp://239.1.1.107:8616
+
+#EXTINF:0,[55] RTV
+rtp://239.1.1.253:8018
+
+#EXTINF:0,[56] Al Quran Al Kareem
+rtp://239.1.1.185:9084
+
+#EXTINF:0,[80] iNews
+rtp://239.1.1.75:8624
+
+#EXTINF:0,[85] MNCTV
+rtp://239.1.2.25:8124
+
+#EXTINF:0,[85] RCTI
+rtp://239.1.2.23:8112
+
+#EXTINF:0,[85] Global TV
+rtp://239.1.2.13:8052
+
+#EXTINF:0,[102] CNN Indonesia
+rtp://@239.1.1.241:9362
+
+#EXTINF:0,[304] Nickelodeon
+rtp://@239.1.1.41:8220
+
+#EXTINF:0,[305] Nick Junior
+rtp://@239.1.1.159:8928
+
+#EXTINF:0,[910] Net TV HD
+rtp://@239.1.1.158:8922
+
+#EXTINF:0,[958] KBS World HD
+rtp://@239.1.1.13:8052
+
+#EXTINF:0,[998] Fox Movie HD
+rtp://@239.1.1.211:9240
